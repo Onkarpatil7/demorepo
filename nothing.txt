@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 Hey 
 My name is Onkar Patil 
 I am a newbie in Open Source
-=======
+
 Hello 
 My name is Onkar Patil
->>>>>>> b89135f316d95a9f954f9f50d967ee8a64ec95f6
+
